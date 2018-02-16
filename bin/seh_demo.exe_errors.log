@@ -1,0 +1,70 @@
+Exception addr: 00401079h
+Exception type: C0000094h
+
+Information:
+Continuable = false, NumberParameters = 0, ReadWrite = read
+
+Registers:
+eax = 00401022h, ebx = 00000001h, ecx = 00000000h, edx = 00000000h
+esp = 000CFA40h, ebp = 000CFA4Ch, esi = 00401022h, edi = 00000000h
+
+Exception addr: 0040107Eh
+Exception type: 80000004h
+
+Information:
+Continuable = false, NumberParameters = 0, ReadWrite = read
+
+Registers:
+eax = 00401022h, ebx = 00000001h, ecx = 00590D68h, edx = 00000000h
+esp = 000CFA40h, ebp = 000CFA4Ch, esi = 00401022h, edi = 00000000h
+
+Exception addr: 0040107Eh
+Exception type: 80000004h
+
+Information:
+Continuable = false, NumberParameters = 0, ReadWrite = read
+
+Registers:
+eax = 00401022h, ebx = 00000001h, ecx = 00590D68h, edx = 00000000h
+esp = 000CFA40h, ebp = 000CFA4Ch, esi = 00401022h, edi = 00000000h
+
+Exception addr: 00401073h
+Exception type: C0000005h
+
+Information:
+Continuable = false, NumberParameters = 2, ReadWrite = read
+
+Registers:
+eax = 00000000h, ebx = 00000001h, ecx = 006D0D68h, edx = 00000000h
+esp = 000CFA40h, ebp = 000CFA4Ch, esi = 00401022h, edi = 00000000h
+
+Exception addr: 0040107Eh
+Exception type: 80000004h
+
+Information:
+Continuable = false, NumberParameters = 0, ReadWrite = read
+
+Registers:
+eax = 00401022h, ebx = 00000001h, ecx = 00590D68h, edx = 00000000h
+esp = 000CFA40h, ebp = 000CFA4Ch, esi = 00401022h, edi = 00000000h
+
+Exception addr: 0040107Eh
+Exception type: 80000004h
+
+Information:
+Continuable = false, NumberParameters = 0, ReadWrite = read
+
+Registers:
+eax = 00401022h, ebx = 00000001h, ecx = 00590D68h, edx = 00000000h
+esp = 000CFA40h, ebp = 000CFA4Ch, esi = 00401022h, edi = 00000000h
+
+Exception addr: 00401079h
+Exception type: C0000094h
+
+Information:
+Continuable = false, NumberParameters = 0, ReadWrite = read
+
+Registers:
+eax = 00401022h, ebx = 00000001h, ecx = 00000000h, edx = 00000000h
+esp = 000CFA40h, ebp = 000CFA4Ch, esi = 00401022h, edi = 00000000h
+
